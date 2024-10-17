@@ -108,7 +108,6 @@ nano /var/www/projectLEMP/info.php
 phpinfo();
 ?>
 ```
-![PHP Info](https://github.com/GrailRoyal/LEMP-STACK/blob/141555c34081dcbae06dd3e994a3f28819bb6fd2/php_%20info.png)
 
 
 10. ## MySQL User Configuration
