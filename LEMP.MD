@@ -27,7 +27,7 @@ To get my instance's public IP address, I used this command:
 ```bash
 curl -s http://169.254.169.254/latest/meta-data/public-ipv4
 ```
-![Nginx Testing](https://github.com/GrailRoyal/LEMP-STACK/blob/141555c34081dcbae06dd3e994a3f28819bb6fd2/nginx_%20testing.png)
+![Nginx Testing](https://github.com/Marychein/LEMP_STACK/blob/main/nginx%20testing.png)
 
 
 4. ## Install MySQL
@@ -35,7 +35,7 @@ Installed MySQL for database management:
 ```bash
 sudo apt install mysql-server
 ```
-![L Database](https://github.com/GrailRoyal/LEMP-STACK/blob/141555c34081dcbae06dd3e994a3f28819bb6fd2/L_DATABASE.png)
+
 
 
 Once MySQL is installed, I logged in to the MySQL shell using this command:
@@ -221,12 +221,14 @@ nano /var/www/projectLEMP/info.php
 phpinfo();
 ?>
 ```
+![LEMP PHP info](https://github.com/Marychein/LEMP_STACK/blob/main/php%20info.png)
+
 10. ## MySQL User Configuration
 For further database management, a new MySQL user was created:
 ```bash
 mysql -u user_mary -p
 ```
-![LEMP Stack Testing](https://github.com/GrailRoyal/LEMP-STACK/blob/141555c34081dcbae06dd3e994a3f28819bb6fd2/LEMP_%20Stack%20testing.png)
+![LEMP Stack Testing](https://github.com/Marychein/LEMP_STACK/blob/main/LEMP%20Stack%20testing.png)
 
 
 
