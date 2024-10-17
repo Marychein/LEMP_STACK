@@ -1,7 +1,7 @@
 # This guide documents the installation and configuration process of a LEMP (Linux, Nginx, MySQL, PHP) stack on an EC2 instance running Ubuntu. 
 
 ## Step-by-Step Instructions
-![LEMP Machine Creation](https://github.com/GrailRoyal/LEMP-STACK/blob/141555c34081dcbae06dd3e994a3f28819bb6fd2/LEMP_%20machine%20creation.png)
+![LEMP Machine Creation](https://github.com/Marychein/LEMP_STACK/blob/main/LEMP%20machiine%20creation.png)
 
 
 
